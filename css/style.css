@@ -1,0 +1,10 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #000000;
+	// background-color: #ef9f13;
+	background-image: url("../img/bg-promo.png");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
